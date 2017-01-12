@@ -1,0 +1,2 @@
+If not exist downloads\"UltraISO Premium Edition v9.6.5.3237 Retail Ml_Rus (DC 22.07.2015)"\Retail\uiso96pes.exe aria2xp\aria2c -d Downloads --seed-time=0 magnet:?xt=urn:btih:3D2D4C33B72CC185AB457582B4B153B2BA6486A3&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=UltraISO%20Premium%20Edition%20v9.6.5.3237%20Retail%20%2F%20RePack%20by%20Trava79%20%2F%20RePack%20by%20VIPCo%20%2F%20Portable%20%5B2015%2C%20Ml%5CRus%5D%20(DC%2022.07.2015) 
+downloads\"UltraISO Premium Edition v9.6.5.3237 Retail Ml_Rus (DC 22.07.2015)"\Retail\uiso96pes.exe /silent
